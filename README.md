@@ -2,11 +2,9 @@
 
 
 
-![](/Users/Yoo/Documents/Github/Relaytel/app/assets/images/releytel2_black.png)
+![](/app/assets/images/releytel2_black.png)
 
-
-
-![](/Users/Yoo/Documents/Github/Relaytel/image/2019-05-05 17-44-33.2019-05-05 17_47_17.gif)
+![](/image/2019-05-05 17-44-33.2019-05-05 17_47_17.gif)
 
 大学時代、プログラミングサークルでチームを作り、全国単位の１泊2日で作成した、WEBアプリです。
 
@@ -36,19 +34,19 @@
 
 - ホテル位置のAPIを利用した予約機能
 
-  ![](/Users/Yoo/Documents/Github/Relaytel/image/스크린샷 2019-05-05 오후 5.55.33.png)
+  ![](/image/스크린샷 2019-05-05 오후 5.55.33.png)
 
 - 長期間予約する人を探すための掲示板機能(コメント機能まで)
 
-  ![](/Users/Yoo/Documents/Github/Relaytel/image/스크린샷 2019-05-05 오후 5.48.27.png)
+  ![](/image/스크린샷 2019-05-05 오후 5.48.27.png)
 
 - 予約のための情報入力フォーム
 
-  ![](/Users/Yoo/Documents/Github/Relaytel/image/스크린샷 2019-05-05 오후 5.55.51.png)
+  ![](/image/스크린샷 2019-05-05 오후 5.55.51.png)
 
 - 予約情報のお知らせ内容
 
-  ![](/Users/Yoo/Documents/Github/Relaytel/image/스크린샷 2019-05-05 오후 5.56.03.png)
+  ![](/image/스크린샷 2019-05-05 오후 5.56.03.png)
 
 
 
@@ -56,11 +54,12 @@
 
 ### 利用した技術
 
-	- Ruby on Rails
-	- JavaScript
-	- Ajax
-	- CSS
-	- HTML
+
+- Ruby on Rails
+- JavaScript
+- Ajax
+- CSS
+- HTML
 
 ---
 
