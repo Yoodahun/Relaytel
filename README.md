@@ -55,11 +55,15 @@
 ### 利用した技術
 
 
-- Ruby on Rails
-- JavaScript
-- Ajax
-- CSS
-- HTML
+- ##### Ruby on Rails
+
+- ##### HTML
+
+- ##### JavaScript
+
+- #### C9, Git, Bitbucket, Heroku
+
+  
 
 ---
 
@@ -68,6 +72,10 @@
 - Devise gemを利用した会員管理機能
 - 会員加入、ログインページ開発
 - デザイン（ロゴ制作）
+
+---
+
+###### このWebアプリを活かして起業するつもりでしたが、宿泊関連法の問題のため、挫折するしかありませんでした。
 
 
 
